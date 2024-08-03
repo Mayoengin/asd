@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mayoengin.github.io/mayo",
+  "homepage": "https://mayoengin.github.io/pro",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -15,8 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.17.12",
-    "gh-pages": "^6.1.1"
+    "@babel/plugin-proposal-private-property-in-object": "^7.17.12"
   },
   "scripts": {
     "start": "react-scripts start",
